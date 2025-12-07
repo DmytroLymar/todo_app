@@ -48,7 +48,7 @@ This project includes completed functionality from:
 
 ## ▶️ Demo
 
-🔗 _link placeholder_
+🔗 [Link](https://dmytrolymar.github.io/todo_app/)
 
 ---
 
